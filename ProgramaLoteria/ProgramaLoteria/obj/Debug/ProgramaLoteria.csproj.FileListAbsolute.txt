@@ -1,0 +1,12 @@
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\bin\Debug\ProgramaLoteria.exe.config
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\bin\Debug\ProgramaLoteria.exe
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\bin\Debug\ProgramaLoteria.pdb
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.Form1.resources
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.Form2.resources
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.Properties.Resources.resources
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.csproj.GenerateResource.cache
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.exe
+C:\Users\Emanuel\Source\Repos\ProgramaLoteria\ProgramaLoteria\obj\Debug\ProgramaLoteria.pdb
